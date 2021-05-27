@@ -11,6 +11,10 @@ body {
   color: #999999;
 }
 
+.meal_img{
+  width: 100% !important;
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
